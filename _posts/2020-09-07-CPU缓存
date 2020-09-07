@@ -1,3 +1,9 @@
+---
+layout: article
+title: CPU缓存
+mathjax: true
+---
+[TOC]
 # CPU缓存
 
 现在都是多核CPU，而每个核心都会有几级缓存：老的CPU会有2级缓存（L1，L2），新的CPU会有3级缓存（L1，L2，L3），如下图所示：
